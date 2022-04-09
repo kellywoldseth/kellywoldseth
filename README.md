@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kellywoldseth
+- 👀 I’m seeking employment as a software engineer, a career change from teaching Computer Science at the high school level. 
+- 🌱 I’m currently learning React.
+- 📫 How to reach me: kelly.woldseth@gmail.com.
