@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kellywoldseth
 - 👀 I’m seeking employment as a software engineer, a career change from teaching Computer Science at the high school level. 
-- 🌱 I’m currently enrolled in Udacity's Full Stack Javascript Developer Nanodegree program.
+- 🌱 I’m recently completed Udacity's Full Stack Javascript Developer Nanodegree program.
 - 📫 How to reach me: kelly.woldseth@gmail.com.
